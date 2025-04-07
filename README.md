@@ -37,12 +37,13 @@ The dataset used is publicly available and includes titles, genres, ratings, rel
    cd OTT-platform-s-Data-Visualization
 
 2. Install dependencies
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
-3. Open the Jupyter notebook
+4. Open the Jupyter notebook
 jupyter notebook
 
-4. Run the cells and explore the visualizations!
+5. Run the cells and explore the visualizations!
 
 
 📬 Contact
